@@ -1,0 +1,24 @@
+{
+  "name": "alan/yii2-db-command",
+  "description": "yii2 frame mysql go away",
+  "license": "MIT",
+  "keywords": [
+    "yii2",
+    "mysql away"
+  ],
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "alan",
+      "email": "wzzjjboy@126.com"
+    }
+  ],
+  "require": {
+    "yiisoft/yii2": "~2.0.5"
+  },
+  "autoload": {
+    "psr-0": {
+      "alan\\yii2\\db": "src/"
+    }
+  }
+}
